@@ -4,9 +4,13 @@ plugins {
 }
 
 android {
+
     namespace 'ok.okara.wikipedia_demo'
     compileSdk 33
 
+    buildFeatures{
+        viewBinding true
+    }
     defaultConfig {
         applicationId "ok.okara.wikipedia_demo"
         minSdk 24
