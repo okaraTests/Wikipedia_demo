@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Wikipedia_demo</string>
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
 </resources>
