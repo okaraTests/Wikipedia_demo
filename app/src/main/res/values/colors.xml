@@ -8,4 +8,10 @@
     <color name="orange">#FF7043</color>
 
     <color name="light_black">#FF3D3D3D</color>
+
+    <color name="black4text">#BE000000</color>
+    <color name="grayLight">#d6d6d6</color>
+    <color name="green_dark">#087c0d</color>
+
+
 </resources>
